@@ -1,3 +1,9 @@
+![giff](https://user-images.githubusercontent.com/89967721/152495855-d80988cf-6d85-448b-b6fa-58a1b4e632f7.gif)
+<a href="https://twitter.com/HarshDhariwal_"><img src="https://www.svgrepo.com/show/11841/twitter.svg" alt="error"><\a>
+
+
+
+
 - 👋 Hi, I’m @Harsh-dhariwal
 - 👀 I’m interested in coding and learning new skills
 - 🌱 I’m currently learning web development
