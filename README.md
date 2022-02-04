@@ -9,7 +9,7 @@ Hey,this is Harsh dhariwal a first year cse undergraduate a Jaypee institute of 
  I love builiding new stuff 😄 and creating something useful 
   
   Juggling ⚾ between DSA and dev right now 
-[![Harsh's github stats](https://github-readme-stats.vercel.app/api?username=Harsh-dhariwal)](https://github.com/Harsh-dhariwal&theme=tokyonight/github-readme-stats)
+[![Harsh's github stats](https://github-readme-stats.vercel.app/api?username=Harsh-dhariwal)](https://github.com/Harsh-dhariwal/github-readme-stats&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Harsh-dhariwal&theme=tokyonight)
 <!---
 Harsh-dhariwal/Harsh-dhariwal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
