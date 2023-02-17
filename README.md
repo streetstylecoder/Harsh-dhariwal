@@ -1,6 +1,6 @@
 <h3 dir="auto">Hey👋</g-emoji>, I'm Harsh</h3>
 
-<a href="https://twitter.com/HarshDhariwal_" rel="nofollow"><img align="left" alt="Prakhar's Twitter" width="22px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/twitter.svg" style="max-width: 100%;"><\a>
+<a href="https://twitter.com/HarshDhariwal_" rel="nofollow"><img align="left" alt="" width="22px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/twitter.svg" style="max-width: 100%;"><\a>
 <a href="https://www.linkedin.com/in/harsh-dhariwal/" rel="nofollow">
   <img align="left"  width="22px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/linkedin.svg" style="max-width: 100%;">
 
