@@ -16,8 +16,8 @@ Hey,this is Harsh dhariwal a second year cse undergraduate a Jaypee institute of
   Juggling ⚾ between DSA and dev right now 
    [![Harsh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=streetstylecoder&bg_color=0f2d3d&color=1cadfb&line=1cadfb&point=1cadfb&area=true&hide_border=true")](https://github.com/streetstylecoder/github-readme-activity-graph)
 
- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Harsh-dhariwal&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Harsh-dhariwal&theme=tokyonight)
+ ![GitHub stats](https://github-readme-stats.vercel.app/api?username=streetstylecoder&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=streetstylecoder&theme=tokyonight)
 <!---
 Harsh-dhariwal/Harsh-dhariwal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
